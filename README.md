@@ -21,4 +21,19 @@ O que obteve mais resultados deve ser o escolhido.
 
 Isso é apenas a ponta do iceberg! Você pode usar Teste A/B em diversas plataformas de marketing, como social media, marketing visual e muito mais. Nosso objetivo aqui não é criar o Teste A/B (isso é feito no curso de Marketing Digital daFormação Desenvolvedor Web Para Data Science). Nosso objetivo aqui é analisar o resultado de um Teste A/B.
 
+
+## Como Analisar Testes A/B?¶
+
+Em geral, realizamos esses 5 passos para analisar um Teste A/B:
+
+1. Configuramos o experimento.
+
+2. Executamos o teste de hipóteses e registramos a taxa de sucesso de cada grupo.
+
+3. Criamos o Plot da distribuição da diferença entre as duas amostras.
+
+4. Calculamos o poder estatístico.
+
+5. Avaliamos como o tamanho das amostras afeta os Testes A/B.
+
 Fonte: Data Science Academy
