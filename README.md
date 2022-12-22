@@ -2,7 +2,7 @@
 
 ### O Que São Testes A/B?
 
-Marketing pode ser difícil – você precisa aproveitar toda vantagemque puder paraestarna frente do seu concorrente. E é por isto que você precisa fazer Teste A/B – isso permite quevocê teste diferentes abordagens e veja qual das alternativas trará o melhor resultado.
+Marketing pode ser difícil – você precisa aproveitar toda vantagemque puder paraestarna frente do seu concorrente. E é por isto que você precisa fazer Teste A/B – isso permite que você teste diferentes abordagens e veja qual das alternativas trará o melhor resultado.
 
 O Teste A/B, ou teste de divisão, é um método eficaz em Marketing Digital, comotécnica de otimização, para tentar gradualmente aumentar as conversões do funil devendas(contatos ou vendas). Ou ainda melhorar outras fases iniciais como, por exemplo, taxa de cliques ou taxa de rejeição. 
 
