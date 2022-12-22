@@ -20,3 +20,5 @@ Desta forma, você reunirá os dados analíticos das duas versões, a controle e
 O que obteve mais resultados deve ser o escolhido.
 
 Isso é apenas a ponta do iceberg! Você pode usar Teste A/B em diversas plataformas de marketing, como social media, marketing visual e muito mais. Nosso objetivo aqui não é criar o Teste A/B (isso é feito no curso de Marketing Digital daFormação Desenvolvedor Web Para Data Science). Nosso objetivo aqui é analisar o resultado de um Teste A/B.
+
+Fonte: Data Science Academy
