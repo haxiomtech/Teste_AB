@@ -20,3 +20,4 @@ Primeiras linhas da tabela dataset.csv.
 ### Dado que um indivíduo estava no grupo de tratamento, qual é a probabilidade de venda?
 19.62%
 
+Como vemos, a probabilidade de receber a nova página é de aproximadamente 10% e a probabilidade total de conversão é de 19%. Precisamos checar se temos evidências suficientes para dizer que o grupo de tratamento leva a um aumento das conversões.
